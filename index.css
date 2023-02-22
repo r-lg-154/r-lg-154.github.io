@@ -27,7 +27,7 @@ p.yes
     color : green;
 }
 
-.div
-{
-    align-items : center
+.content {
+    display : flex;
+    flex-wrap : wrap
 }
