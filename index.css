@@ -1,0 +1,28 @@
+a 
+{
+    color : rgb(33, 12, 135);
+    font-size: medium;
+}
+
+div
+{
+    color : rgb(33, 12, 135);
+    font-size: medium;
+}
+
+h1
+{
+    color : rgb(98, 168, 174);
+    font-size: xx-large;
+    background-color: rgb(8, 7, 67);
+}
+
+p#only-me
+{
+    background-color: pink;
+}
+
+p.yes
+{
+    color : green;
+}
